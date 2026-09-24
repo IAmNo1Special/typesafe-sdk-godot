@@ -1,0 +1,17 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+
+# Agents
+.kilo/
+
+# Environment variables
+.env
+
+# Logs and OS/editor junk
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
