@@ -1,6 +1,6 @@
 # TypeSafe SDK for Godot
 
-[TypeSafe API](https://typesafe.ai) for Godot 4.7 SDK, at parity with the
+[TypeSafe API](https://typesafe.ai) SDK for Godot 4.7, at parity with the
 [Python SDK](https://docs.typesafe.ai/sdk/python) and the
 [HTTP API reference](https://docs.typesafe.ai/api).
 
